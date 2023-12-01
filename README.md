@@ -6,4 +6,4 @@ Langage de Programmation : **Python 3.9**
 
 Environnement de Développement : **Jupyter-Lab**
 
-**JOUR 1: SUCCESS ** (https://adventofcode.com/2023/day/1)
+**JOUR 1: SUCCESS**         (https://adventofcode.com/2023/day/1)
